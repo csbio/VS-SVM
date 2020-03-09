@@ -1,0 +1,81 @@
+GO annotation	Process prediction	P-value
+GO:0016192	vesicle-mediated transport	0
+GO:0048193	Golgi vesicle transport	0
+GO:0032258	CVT pathway	0
+GO:0006623	protein targeting to vacuole	0
+GO:0072666	establishment of protein localization to vacuole	0
+GO:0016236	macroautophagy	0
+GO:0006605	protein targeting	0
+GO:0007034	vacuolar transport	0
+GO:0006888	ER to Golgi vesicle-mediated transport	0
+GO:0006885	regulation of pH	0
+GO:0006140	regulation of nucleotide metabolic process	0
+GO:0009118	regulation of nucleoside metabolic process	0
+GO:0030811	regulation of nucleotide catabolic process	0
+GO:0033121	regulation of purine nucleotide catabolic process	0
+GO:1900542	regulation of purine nucleotide metabolic process	0
+GO:0006914	autophagy	0
+GO:0072594	establishment of protein localization to organelle	0
+GO:0019220	regulation of phosphate metabolic process	0
+GO:0051174	regulation of phosphorus metabolic process	0
+GO:0016050	vesicle organization	0
+GO:0006891	intra-Golgi vesicle-mediated transport	0
+GO:0015988	energy coupled proton transmembrane transport, against electrochemical gradient	0
+GO:0015991	ATP hydrolysis coupled proton transport	0
+GO:0007035	vacuolar acidification	0
+GO:0030641	regulation of cellular pH	0
+GO:0045851	pH reduction	0
+GO:0051452	intracellular pH reduction	0
+GO:0051453	regulation of intracellular pH	0
+GO:0030004	cellular monovalent inorganic cation homeostasis	0
+GO:0055067	monovalent inorganic cation homeostasis	0
+GO:0042147	retrograde transport, endosome to Golgi	0
+GO:0042144	vacuole fusion, non-autophagic	0
+GO:0016197	endosomal transport	1.11022e-16
+GO:0016044	cellular membrane organization	1.11022e-16
+GO:0061024	membrane organization	1.11022e-16
+GO:0000301	retrograde transport, vesicle recycling within Golgi	2.22045e-16
+GO:0006944	cellular membrane fusion	3.33067e-16
+GO:0061025	membrane fusion	3.33067e-16
+GO:0006886	intracellular protein transport	1.77636e-15
+GO:0007033	vacuole organization	4.16334e-14
+GO:0006906	vesicle fusion	2.81664e-13
+GO:0006873	cellular ion homeostasis	4.42302e-12
+GO:0006890	retrograde vesicle-mediated transport, Golgi to ER	5.82701e-12
+GO:0045053	protein retention in Golgi apparatus	8.81528e-12
+GO:0006818	hydrogen transport	3.09481e-11
+GO:0015992	proton transport	3.09481e-11
+GO:0051345	positive regulation of hydrolase activity	9.05939e-11
+GO:0050801	ion homeostasis	1.17882e-09
+GO:0055082	cellular chemical homeostasis	8.49281e-09
+GO:0048878	chemical homeostasis	1.32644e-08
+GO:0022406	membrane docking	2.80479e-08
+GO:0048278	vesicle docking	2.80479e-08
+GO:0034220	ion transmembrane transport	6.52755e-08
+GO:0048284	organelle fusion	1.14286e-07
+GO:0045324	late endosome to vacuole transport	1.58835e-07
+GO:0006895	Golgi to endosome transport	6.67415e-07
+GO:0006892	post-Golgi vesicle-mediated transport	1.08209e-06
+GO:0015672	monovalent inorganic cation transport	2.66672e-06
+GO:0009267	cellular response to starvation	3.55024e-06
+GO:0042594	response to starvation	3.55024e-06
+GO:0051336	regulation of hydrolase activity	3.55024e-06
+GO:0030003	cellular cation homeostasis	3.91598e-06
+GO:0048280	vesicle fusion with Golgi apparatus	3.91598e-06
+GO:0055080	cation homeostasis	9.59406e-06
+GO:0035542	regulation of SNARE complex assembly	4.48968e-05
+GO:0034498	early endosome to Golgi transport	0.000210283
+GO:0050790	regulation of catalytic activity	0.00129212
+GO:0006673	inositolphosphoceramide metabolic process	0.00242167
+GO:0007154	cell communication	0.00688532
+GO:0006984	ER-nucleus signaling pathway	0.00743762
+GO:0030968	endoplasmic reticulum unfolded protein response	0.00743762
+GO:0034620	cellular response to unfolded protein	0.00743762
+GO:0034976	response to endoplasmic reticulum stress	0.00743762
+GO:0048308	organelle inheritance	0.00930168
+GO:0007165	signal transduction	0.0179119
+GO:0006338	chromatin remodeling	0.0325191
+GO:0030242	peroxisome degradation	0.0361004
+GO:0043001	Golgi to plasma membrane protein transport	0.042707
+GO:0090002	establishment of protein localization to plasma membrane	0.042707
+GO:0043044	ATP-dependent chromatin remodeling	0.0437205

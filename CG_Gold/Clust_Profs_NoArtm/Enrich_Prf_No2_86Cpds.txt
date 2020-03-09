@@ -1,0 +1,49 @@
+GO annotation	Process prediction	P-value
+GO:0090150	establishment of protein localization to membrane	0
+GO:0045047	protein targeting to ER	3.33942e-11
+GO:0072599	establishment of protein localization to endoplasmic reticulum	3.33942e-11
+GO:0006613	cotranslational protein targeting to membrane	9.17967e-11
+GO:0006614	SRP-dependent cotranslational protein targeting to membrane	9.17967e-11
+GO:0006612	protein targeting to membrane	9.73998e-10
+GO:1901617	organic hydroxy compound biosynthetic process	7.44111e-08
+GO:0010499	proteasomal ubiquitin-independent protein catabolic process	1.24688e-06
+GO:0043248	proteasome assembly	1.25167e-06
+GO:0006656	phosphatidylcholine biosynthetic process	3.19596e-06
+GO:0042439	ethanolamine-containing compound metabolic process	3.19596e-06
+GO:0046470	phosphatidylcholine metabolic process	3.19596e-06
+GO:0046165	alcohol biosynthetic process	5.85285e-06
+GO:0071444	cellular response to pheromone	1.10016e-05
+GO:1901615	organic hydroxy compound metabolic process	2.70837e-05
+GO:0000320	re-entry into mitotic cell cycle	7.0178e-05
+GO:0000321	re-entry into mitotic cell cycle after pheromone arrest	7.0178e-05
+GO:0030163	protein catabolic process	0.000111942
+GO:0006066	alcohol metabolic process	0.000152942
+GO:0010498	proteasomal protein catabolic process	0.000184442
+GO:0043161	proteasomal ubiquitin-dependent protein catabolic process	0.000184442
+GO:0006511	ubiquitin-dependent protein catabolic process	0.000196212
+GO:0019941	modification-dependent protein catabolic process	0.000196212
+GO:0051603	proteolysis involved in cellular protein catabolic process	0.000196212
+GO:0090151	establishment of protein localization to mitochondrial membrane	0.000324311
+GO:0071822	protein complex subunit organization	0.00109354
+GO:0006605	protein targeting	0.00813835
+GO:0019236	response to pheromone	0.00918969
+GO:0006508	proteolysis	0.010231
+GO:0048309	endoplasmic reticulum inheritance	0.0107271
+GO:0007006	mitochondrial membrane organization	0.0107271
+GO:0051261	protein depolymerization	0.0172932
+GO:0051130	positive regulation of cellular component organization	0.0172932
+GO:0006696	ergosterol biosynthetic process	0.0245659
+GO:0008204	ergosterol metabolic process	0.0245659
+GO:0016128	phytosteroid metabolic process	0.0245659
+GO:0016129	phytosteroid biosynthetic process	0.0245659
+GO:0044107	cellular alcohol metabolic process	0.0245659
+GO:0044108	cellular alcohol biosynthetic process	0.0245659
+GO:0006886	intracellular protein transport	0.0279067
+GO:0043632	modification-dependent macromolecule catabolic process	0.028255
+GO:0065002	intracellular protein transmembrane transport	0.028255
+GO:0071806	protein transmembrane transport	0.028255
+GO:0044036	cell wall macromolecule metabolic process	0.0312805
+GO:0002181	cytoplasmic translation	0.0376318
+GO:0017038	protein import	0.0390481
+GO:0002097	tRNA wobble base modification	0.0478995
+GO:0002098	tRNA wobble uridine modification	0.0478995

@@ -1,0 +1,183 @@
+GO annotation	Process prediction	P-value
+GO:0006323	DNA packaging	0
+GO:0030261	chromosome condensation	0
+GO:0007076	mitotic chromosome condensation	0
+GO:0007059	chromosome segregation	0
+GO:0034502	protein localization to chromosome	0
+GO:0016071	mRNA metabolic process	0
+GO:0006397	mRNA processing	0
+GO:0070550	rDNA condensation	1.11022e-16
+GO:0051276	chromosome organization	2.22045e-16
+GO:0000819	sister chromatid segregation	3.33067e-16
+GO:0000070	mitotic sister chromatid segregation	8.88178e-16
+GO:0007097	nuclear migration	1.22125e-15
+GO:0040023	establishment of nucleus localization	1.22125e-15
+GO:0032774	RNA biosynthetic process	1.66533e-15
+GO:0006351	transcription, DNA-dependent	4.10783e-15
+GO:0010970	microtubule-based transport	1.08136e-13
+GO:0030473	nuclear migration along microtubule	1.08136e-13
+GO:0030705	cytoskeleton-dependent intracellular transport	1.08136e-13
+GO:0072384	organelle transport along microtubule	1.08136e-13
+GO:0006405	RNA export from nucleus	4.64362e-12
+GO:0008380	RNA splicing	4.94638e-12
+GO:0070058	tRNA gene clustering	1.00248e-11
+GO:0006354	DNA-dependent transcription, elongation	2.63072e-11
+GO:0006403	RNA localization	3.65714e-11
+GO:0006396	RNA processing	6.39275e-11
+GO:0006913	nucleocytoplasmic transport	1.19859e-10
+GO:0051169	nuclear transport	1.19859e-10
+GO:0034397	telomere localization	5.27175e-10
+GO:0034398	telomere tethering at nuclear periphery	5.27175e-10
+GO:0050000	chromosome localization	5.27175e-10
+GO:0051168	nuclear export	5.46279e-10
+GO:0007018	microtubule-based movement	6.81885e-10
+GO:0045893	positive regulation of transcription, DNA-dependent	7.3214e-10
+GO:0010628	positive regulation of gene expression	7.3214e-10
+GO:0045944	positive regulation of transcription from RNA polymerase II promoter	7.3214e-10
+GO:0071824	protein-DNA complex subunit organization	7.62568e-10
+GO:0051123	RNA polymerase II transcriptional preinitiation complex assembly	1.50004e-09
+GO:0070897	DNA-dependent transcriptional preinitiation complex assembly	1.50004e-09
+GO:0048519	negative regulation of biological process	1.50004e-09
+GO:0000973	posttranscriptional tethering of RNA polymerase II gene DNA at nuclear periphery	2.06286e-09
+GO:0006368	transcription elongation from RNA polymerase II promoter	3.01942e-09
+GO:0048523	negative regulation of cellular process	3.01942e-09
+GO:0000377	RNA splicing, via transesterification reactions with bulged adenosine as nucleophile	4.46488e-09
+GO:0000398	mRNA splicing, via spliceosome	4.46488e-09
+GO:0033036	macromolecule localization	8.03123e-09
+GO:0015931	nucleobase-containing compound transport	8.44525e-09
+GO:0009892	negative regulation of metabolic process	9.14882e-09
+GO:0031324	negative regulation of cellular metabolic process	9.14882e-09
+GO:0009890	negative regulation of biosynthetic process	9.14882e-09
+GO:0031327	negative regulation of cellular biosynthetic process	9.14882e-09
+GO:0071705	nitrogen compound transport	1.10271e-08
+GO:0045935	positive regulation of nucleobase-containing compound metabolic process	1.47323e-08
+GO:0000375	RNA splicing, via transesterification reactions	2.81385e-08
+GO:0010629	negative regulation of gene expression	4.11766e-08
+GO:0045892	negative regulation of transcription, DNA-dependent	4.11766e-08
+GO:0051253	negative regulation of RNA metabolic process	4.11766e-08
+GO:0051172	negative regulation of nitrogen compound metabolic process	4.11766e-08
+GO:0040029	regulation of gene expression, epigenetic	4.11766e-08
+GO:0051656	establishment of organelle localization	5.29755e-08
+GO:0009266	response to temperature stimulus	8.32529e-08
+GO:0009408	response to heat	8.32529e-08
+GO:0034605	cellular response to heat	8.56113e-08
+GO:0051254	positive regulation of RNA metabolic process	8.56113e-08
+GO:0010558	negative regulation of macromolecule biosynthetic process	9.6977e-08
+GO:2000113	negative regulation of cellular macromolecule biosynthetic process	9.6977e-08
+GO:0000350	generation of catalytic spliceosome for second transesterification step	1.04517e-07
+GO:0006406	mRNA export from nucleus	1.40855e-07
+GO:0010605	negative regulation of macromolecule metabolic process	2.42924e-07
+GO:0000972	transcription-dependent tethering of RNA polymerase II gene DNA at nuclear periphery	2.83014e-07
+GO:0045934	negative regulation of nucleobase-containing compound metabolic process	3.68856e-07
+GO:0050658	RNA transport	3.72234e-07
+GO:0051236	establishment of RNA localization	3.72234e-07
+GO:0051173	positive regulation of nitrogen compound metabolic process	4.82435e-07
+GO:0008298	intracellular mRNA localization	7.61126e-07
+GO:0031935	regulation of chromatin silencing	1.0706e-06
+GO:0060968	regulation of gene silencing	1.0706e-06
+GO:0010557	positive regulation of macromolecule biosynthetic process	1.93127e-06
+GO:0031936	negative regulation of chromatin silencing	2.06794e-06
+GO:0045815	positive regulation of gene expression, epigenetic	2.06794e-06
+GO:0060969	negative regulation of gene silencing	2.06794e-06
+GO:0006475	internal protein amino acid acetylation	2.62788e-06
+GO:0016573	histone acetylation	2.62788e-06
+GO:0018393	internal peptidyl-lysine acetylation	2.62788e-06
+GO:0018394	peptidyl-lysine acetylation	2.62788e-06
+GO:0006473	protein acetylation	2.62788e-06
+GO:0050657	nucleic acid transport	3.4219e-06
+GO:0016568	chromatin modification	3.85538e-06
+GO:0051179	localization	4.8629e-06
+GO:0006928	cellular component movement	5.23033e-06
+GO:0000122	negative regulation of transcription from RNA polymerase II promoter	5.55806e-06
+GO:0031325	positive regulation of cellular metabolic process	6.20363e-06
+GO:0006357	regulation of transcription from RNA polymerase II promoter	6.75236e-06
+GO:0006325	chromatin organization	8.82535e-06
+GO:0009891	positive regulation of biosynthetic process	1.13034e-05
+GO:0031328	positive regulation of cellular biosynthetic process	1.13034e-05
+GO:0051301	cell division	1.13879e-05
+GO:0043543	protein acylation	1.33375e-05
+GO:0009893	positive regulation of metabolic process	1.37815e-05
+GO:0007010	cytoskeleton organization	2.05859e-05
+GO:0061186	negative regulation of chromatin silencing at silent mating-type cassette	2.11678e-05
+GO:0061187	regulation of chromatin silencing at rDNA	2.11678e-05
+GO:0061188	negative regulation of chromatin silencing at rDNA	2.11678e-05
+GO:0034085	establishment of sister chromatid cohesion	2.15485e-05
+GO:0034087	establishment of mitotic sister chromatid cohesion	2.15485e-05
+GO:0007017	microtubule-based process	2.32264e-05
+GO:0048285	organelle fission	2.76808e-05
+GO:0090054	regulation of chromatin silencing at silent mating-type cassette	3.74726e-05
+GO:0065004	protein-DNA complex assembly	3.74726e-05
+GO:0051170	nuclear import	4.07907e-05
+GO:0017038	protein import	4.96527e-05
+GO:0051031	tRNA transport	6.37099e-05
+GO:0010604	positive regulation of macromolecule metabolic process	6.92307e-05
+GO:0031939	negative regulation of chromatin silencing at telomere	0.000116247
+GO:0007067	mitosis	0.000154069
+GO:0048522	positive regulation of cellular process	0.000155421
+GO:0051028	mRNA transport	0.000226899
+GO:0045132	meiotic chromosome segregation	0.000236882
+GO:0031990	mRNA export from nucleus in response to heat stress	0.000280927
+GO:0043242	negative regulation of protein complex disassembly	0.000346572
+GO:1901879	regulation of protein depolymerization	0.000346572
+GO:1901880	negative regulation of protein depolymerization	0.000346572
+GO:0000132	establishment of mitotic spindle orientation	0.000553427
+GO:0051294	establishment of spindle orientation	0.000553427
+GO:0006259	DNA metabolic process	0.000595001
+GO:0006476	protein deacetylation	0.000636278
+GO:0016575	histone deacetylation	0.000636278
+GO:0035601	protein deacylation	0.000636278
+GO:0048518	positive regulation of biological process	0.000636278
+GO:0032886	regulation of microtubule-based process	0.000636278
+GO:0070507	regulation of microtubule cytoskeleton organization	0.000636278
+GO:0034503	protein localization to nucleolar rDNA repeats	0.000738426
+GO:0061408	positive regulation of transcription from RNA polymerase II promoter in response to heat stress	0.000807207
+GO:0016569	covalent chromatin modification	0.0008654
+GO:0016570	histone modification	0.0008654
+GO:0051494	negative regulation of cytoskeleton organization	0.0008654
+GO:0000280	nuclear division	0.0011838
+GO:0031938	regulation of chromatin silencing at telomere	0.00128823
+GO:0040001	establishment of mitotic spindle localization	0.00130263
+GO:0051293	establishment of spindle localization	0.00130263
+GO:0030472	mitotic spindle organization in nucleus	0.00149458
+GO:0043085	positive regulation of catalytic activity	0.00149458
+GO:0007051	spindle organization	0.00175438
+GO:0051641	cellular localization	0.00187969
+GO:0045143	homologous chromosome segregation	0.00250183
+GO:0018205	peptidyl-lysine modification	0.003518
+GO:0006367	transcription initiation from RNA polymerase II promoter	0.003518
+GO:0031110	regulation of microtubule polymerization or depolymerization	0.003518
+GO:0009628	response to abiotic stimulus	0.00400997
+GO:0036003	positive regulation of transcription from RNA polymerase II promoter in response to stress	0.00447843
+GO:0016479	negative regulation of transcription from RNA polymerase I promoter	0.00447843
+GO:0006337	nucleosome disassembly	0.00447843
+GO:0032986	protein-DNA complex disassembly	0.00447843
+GO:0000226	microtubule cytoskeleton organization	0.00487986
+GO:0045786	negative regulation of cell cycle	0.00627289
+GO:0006606	protein import into nucleus	0.00632087
+GO:0007021	tubulin complex assembly	0.00682325
+GO:0070727	cellular macromolecule localization	0.00837203
+GO:0071826	ribonucleoprotein complex subunit organization	0.00837203
+GO:0022618	ribonucleoprotein complex assembly	0.00837203
+GO:0007052	mitotic spindle organization	0.00900417
+GO:0010639	negative regulation of organelle organization	0.00915424
+GO:0051129	negative regulation of cellular component organization	0.00915424
+GO:0007094	mitotic spindle assembly checkpoint	0.0115274
+GO:0045839	negative regulation of mitosis	0.0115274
+GO:0045841	negative regulation of mitotic metaphase/anaphase transition	0.0115274
+GO:0051784	negative regulation of nuclear division	0.0115274
+GO:0071173	spindle assembly checkpoint	0.0115274
+GO:1902100	negative regulation of metaphase/anaphase transition of cell cycle	0.0115274
+GO:0071103	DNA conformation change	0.0128983
+GO:0016571	histone methylation	0.0149897
+GO:0006379	mRNA cleavage	0.0149897
+GO:0007049	cell cycle	0.0158133
+GO:0007064	mitotic sister chromatid cohesion	0.0181629
+GO:0044093	positive regulation of molecular function	0.0185722
+GO:0070071	proton-transporting two-sector ATPase complex assembly	0.0202685
+GO:0006338	chromatin remodeling	0.024167
+GO:0070192	chromosome organization involved in meiosis	0.024167
+GO:0006409	tRNA export from nucleus	0.024167
+GO:0031124	mRNA 3'-end processing	0.0365271
+GO:0032984	macromolecular complex disassembly	0.0365271
+GO:0043618	regulation of transcription from RNA polymerase II promoter in response to stress	0.0423437
+GO:0043620	regulation of DNA-dependent transcription in response to stress	0.0423437

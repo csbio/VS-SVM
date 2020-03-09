@@ -1,0 +1,74 @@
+GO annotation	Process prediction	P-value
+GO:0071554	cell wall organization or biogenesis	5.90391e-09
+GO:0031505	fungal-type cell wall organization	1.15047e-07
+GO:0045229	external encapsulating structure organization	1.15047e-07
+GO:0071555	cell wall organization	1.15047e-07
+GO:0009272	fungal-type cell wall biogenesis	1.59899e-07
+GO:0071852	fungal-type cell wall organization or biogenesis	6.81694e-07
+GO:0001933	negative regulation of protein phosphorylation	1.58902e-05
+GO:0006469	negative regulation of protein kinase activity	1.58902e-05
+GO:0042326	negative regulation of phosphorylation	1.58902e-05
+GO:0006903	vesicle targeting	1.67496e-05
+GO:0090522	vesicle tethering involved in exocytosis	1.67496e-05
+GO:0042546	cell wall biogenesis	1.76565e-05
+GO:0007165	signal transduction	1.78208e-05
+GO:0035556	intracellular signal transduction	3.40005e-05
+GO:0000469	cleavage involved in rRNA processing	3.74297e-05
+GO:0090501	RNA phosphodiester bond hydrolysis	3.74297e-05
+GO:0006887	exocytosis	6.37116e-05
+GO:0006986	response to unfolded protein	9.77311e-05
+GO:0033673	negative regulation of kinase activity	0.000175856
+GO:0051348	negative regulation of transferase activity	0.000175856
+GO:0031400	negative regulation of protein modification process	0.000175856
+GO:0010627	regulation of intracellular protein kinase cascade	0.000175856
+GO:0043408	regulation of MAPK cascade	0.000175856
+GO:0007243	intracellular protein kinase cascade	0.000488963
+GO:0032506	cytokinetic process	0.000488963
+GO:0000462	maturation of SSU-rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)	0.000488963
+GO:0016241	regulation of macroautophagy	0.000488963
+GO:0001101	response to acid	0.000495788
+GO:0035967	cellular response to topologically incorrect protein	0.000717562
+GO:0006984	ER-nucleus signaling pathway	0.000879985
+GO:0030968	endoplasmic reticulum unfolded protein response	0.000879985
+GO:0034620	cellular response to unfolded protein	0.000879985
+GO:0034976	response to endoplasmic reticulum stress	0.000879985
+GO:0007163	establishment or maintenance of cell polarity	0.00184356
+GO:0030010	establishment of cell polarity	0.00184356
+GO:0060237	regulation of fungal-type cell wall organization	0.00184356
+GO:0000271	polysaccharide biosynthetic process	0.00184356
+GO:0033692	cellular polysaccharide biosynthetic process	0.00184356
+GO:0034637	cellular carbohydrate biosynthetic process	0.00184356
+GO:0044088	regulation of vacuole organization	0.00184356
+GO:0032940	secretion by cell	0.00218267
+GO:0046903	secretion	0.00218267
+GO:0022604	regulation of cell morphogenesis	0.00434512
+GO:0030490	maturation of SSU-rRNA	0.0062954
+GO:0034470	ncRNA processing	0.0062954
+GO:0042273	ribosomal large subunit biogenesis	0.0062954
+GO:0034660	ncRNA metabolic process	0.0062954
+GO:0016255	attachment of GPI anchor to protein	0.00847846
+GO:0030029	actin filament-based process	0.0105913
+GO:0032956	regulation of actin cytoskeleton organization	0.0134962
+GO:0032970	regulation of actin filament-based process	0.0134962
+GO:0071310	cellular response to organic substance	0.0135249
+GO:0000910	cytokinesis	0.0135249
+GO:0030036	actin cytoskeleton organization	0.0153481
+GO:0000902	cell morphogenesis	0.0179083
+GO:0009653	anatomical structure morphogenesis	0.0179083
+GO:0032989	cellular component morphogenesis	0.0179083
+GO:0006364	rRNA processing	0.0179083
+GO:0016072	rRNA metabolic process	0.0179083
+GO:0022613	ribonucleoprotein complex biogenesis	0.0179083
+GO:0042254	ribosome biogenesis	0.0179083
+GO:0044085	cellular component biogenesis	0.0179083
+GO:0016075	rRNA catabolic process	0.0179083
+GO:0034661	ncRNA catabolic process	0.0179083
+GO:0032535	regulation of cellular component size	0.0202127
+GO:0090066	regulation of anatomical structure size	0.0202127
+GO:0008064	regulation of actin polymerization or depolymerization	0.0208277
+GO:0030832	regulation of actin filament length	0.0208277
+GO:0030833	regulation of actin filament polymerization	0.0208277
+GO:0035966	response to topologically incorrect protein	0.0226585
+GO:0010506	regulation of autophagy	0.033973
+GO:0080135	regulation of cellular response to stress	0.033973
+GO:0010033	response to organic substance	0.0389496

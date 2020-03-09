@@ -1,0 +1,86 @@
+GO annotation	Process prediction	P-value
+GO:0002097	tRNA wobble base modification	2.76866e-10
+GO:0002098	tRNA wobble uridine modification	2.76866e-10
+GO:0009451	RNA modification	3.43748e-10
+GO:0008064	regulation of actin polymerization or depolymerization	6.77535e-10
+GO:0030832	regulation of actin filament length	6.77535e-10
+GO:0030833	regulation of actin filament polymerization	6.77535e-10
+GO:0000001	mitochondrion inheritance	9.60835e-10
+GO:0048311	mitochondrion distribution	9.60835e-10
+GO:0051646	mitochondrion localization	9.60835e-10
+GO:0032271	regulation of protein polymerization	1.54391e-09
+GO:0006400	tRNA modification	3.23221e-09
+GO:0032956	regulation of actin cytoskeleton organization	4.51531e-08
+GO:0032970	regulation of actin filament-based process	4.51531e-08
+GO:0051493	regulation of cytoskeleton organization	1.73369e-06
+GO:0007015	actin filament organization	2.80734e-06
+GO:0032535	regulation of cellular component size	4.48913e-06
+GO:0090066	regulation of anatomical structure size	4.48913e-06
+GO:0051495	positive regulation of cytoskeleton organization	2.92685e-05
+GO:0030837	negative regulation of actin filament polymerization	4.90162e-05
+GO:0031333	negative regulation of protein complex assembly	4.90162e-05
+GO:0032272	negative regulation of protein polymerization	4.90162e-05
+GO:0043618	regulation of transcription from RNA polymerase II promoter in response to stress	0.000105075
+GO:0043620	regulation of DNA-dependent transcription in response to stress	0.000105075
+GO:0006356	regulation of transcription from RNA polymerase I promoter	0.000116608
+GO:0032447	protein urmylation	0.000249465
+GO:0036003	positive regulation of transcription from RNA polymerase II promoter in response to stress	0.000275051
+GO:0016479	negative regulation of transcription from RNA polymerase I promoter	0.000275051
+GO:0046165	alcohol biosynthetic process	0.00031632
+GO:0030029	actin filament-based process	0.000418892
+GO:1901617	organic hydroxy compound biosynthetic process	0.000962034
+GO:0051494	negative regulation of cytoskeleton organization	0.00123408
+GO:0016568	chromatin modification	0.00135815
+GO:0006325	chromatin organization	0.00155681
+GO:0018193	peptidyl-amino acid modification	0.00238882
+GO:0006694	steroid biosynthetic process	0.0038302
+GO:0016126	sterol biosynthetic process	0.0038302
+GO:0006357	regulation of transcription from RNA polymerase II promoter	0.00487929
+GO:0031056	regulation of histone modification	0.00559785
+GO:0070682	proteasome regulatory particle assembly	0.00559785
+GO:0031058	positive regulation of histone modification	0.00559785
+GO:0010499	proteasomal ubiquitin-independent protein catabolic process	0.00673065
+GO:0016569	covalent chromatin modification	0.00673065
+GO:0016570	histone modification	0.00673065
+GO:0043414	macromolecule methylation	0.00750165
+GO:0032259	methylation	0.00750165
+GO:0016574	histone ubiquitination	0.00750165
+GO:0008033	tRNA processing	0.0104967
+GO:0034968	histone lysine methylation	0.0104967
+GO:0061408	positive regulation of transcription from RNA polymerase II promoter in response to heat stress	0.0118144
+GO:0031938	regulation of chromatin silencing at telomere	0.015263
+GO:0007010	cytoskeleton organization	0.0162647
+GO:0051128	regulation of cellular component organization	0.0172267
+GO:0043242	negative regulation of protein complex disassembly	0.0193294
+GO:1901879	regulation of protein depolymerization	0.0193294
+GO:1901880	negative regulation of protein depolymerization	0.0193294
+GO:0030036	actin cytoskeleton organization	0.0207381
+GO:1902275	regulation of chromatin organization	0.0212304
+GO:0045835	negative regulation of meiosis	0.0212304
+GO:0006399	tRNA metabolic process	0.0212304
+GO:0051322	anaphase	0.0212304
+GO:0006348	chromatin silencing at telomere	0.0212304
+GO:0009250	glucan biosynthetic process	0.0212304
+GO:0051568	histone H3-K4 methylation	0.0212304
+GO:0007118	budding cell apical bud growth	0.0212304
+GO:0009060	aerobic respiration	0.0212304
+GO:0045333	cellular respiration	0.0212304
+GO:0006904	vesicle docking involved in exocytosis	0.0212304
+GO:0008202	steroid metabolic process	0.0240524
+GO:0016125	sterol metabolic process	0.0240524
+GO:0006887	exocytosis	0.0240524
+GO:0006379	mRNA cleavage	0.0258549
+GO:0034728	nucleosome organization	0.0258549
+GO:0040029	regulation of gene expression, epigenetic	0.0285314
+GO:0061186	negative regulation of chromatin silencing at silent mating-type cassette	0.0294655
+GO:0061187	regulation of chromatin silencing at rDNA	0.0294655
+GO:0061188	negative regulation of chromatin silencing at rDNA	0.0294655
+GO:0090054	regulation of chromatin silencing at silent mating-type cassette	0.0355957
+GO:0030174	regulation of DNA-dependent DNA replication initiation	0.0363888
+GO:0018205	peptidyl-lysine modification	0.0363888
+GO:0006479	protein methylation	0.0363888
+GO:0008213	protein alkylation	0.0363888
+GO:0051038	negative regulation of transcription during meiosis	0.040072
+GO:0033043	regulation of organelle organization	0.040072
+GO:0031935	regulation of chromatin silencing	0.0424638
+GO:0060968	regulation of gene silencing	0.0424638

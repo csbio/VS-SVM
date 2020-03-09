@@ -1,0 +1,83 @@
+GO annotation	Process prediction	P-value
+GO:0009088	threonine biosynthetic process	0
+GO:0006566	threonine metabolic process	0
+GO:0009092	homoserine metabolic process	0
+GO:0009069	serine family amino acid metabolic process	0
+GO:0009070	serine family amino acid biosynthetic process	0
+GO:0030004	cellular monovalent inorganic cation homeostasis	3.33067e-16
+GO:0006082	organic acid metabolic process	4.44089e-16
+GO:0043436	oxoacid metabolic process	4.44089e-16
+GO:0006873	cellular ion homeostasis	6.66134e-16
+GO:0050801	ion homeostasis	2.10942e-15
+GO:0055067	monovalent inorganic cation homeostasis	2.9976e-15
+GO:0055082	cellular chemical homeostasis	1.59872e-14
+GO:0048878	chemical homeostasis	3.05311e-14
+GO:0007035	vacuolar acidification	9.30367e-14
+GO:0030641	regulation of cellular pH	9.30367e-14
+GO:0045851	pH reduction	9.30367e-14
+GO:0051452	intracellular pH reduction	9.30367e-14
+GO:0051453	regulation of intracellular pH	9.30367e-14
+GO:0030003	cellular cation homeostasis	1.07692e-13
+GO:1901564	organonitrogen compound metabolic process	1.95455e-12
+GO:0019752	carboxylic acid metabolic process	1.95455e-12
+GO:0006885	regulation of pH	2.09617e-11
+GO:0009067	aspartate family amino acid biosynthetic process	3.13114e-11
+GO:0055080	cation homeostasis	9.62701e-11
+GO:0006890	retrograde vesicle-mediated transport, Golgi to ER	1.24086e-10
+GO:0019725	cellular homeostasis	1.30279e-10
+GO:0015988	energy coupled proton transmembrane transport, against electrochemical gradient	3.19711e-10
+GO:0015991	ATP hydrolysis coupled proton transport	3.19711e-10
+GO:0006520	cellular amino acid metabolic process	4.92553e-10
+GO:0008202	steroid metabolic process	5.78929e-10
+GO:0016125	sterol metabolic process	5.78929e-10
+GO:0006696	ergosterol biosynthetic process	1.05419e-09
+GO:0008204	ergosterol metabolic process	1.05419e-09
+GO:0016128	phytosteroid metabolic process	1.05419e-09
+GO:0016129	phytosteroid biosynthetic process	1.05419e-09
+GO:0044107	cellular alcohol metabolic process	1.05419e-09
+GO:0044108	cellular alcohol biosynthetic process	1.05419e-09
+GO:0006811	ion transport	1.53402e-09
+GO:0006893	Golgi to plasma membrane transport	2.98003e-09
+GO:0006553	lysine metabolic process	7.61133e-09
+GO:0043001	Golgi to plasma membrane protein transport	9.91781e-09
+GO:0090002	establishment of protein localization to plasma membrane	9.91781e-09
+GO:0006694	steroid biosynthetic process	1.80248e-08
+GO:0016126	sterol biosynthetic process	1.80248e-08
+GO:0016053	organic acid biosynthetic process	5.74428e-08
+GO:0046394	carboxylic acid biosynthetic process	5.74428e-08
+GO:1901607	alpha-amino acid biosynthetic process	1.15579e-07
+GO:0006818	hydrogen transport	1.84355e-07
+GO:0015992	proton transport	1.84355e-07
+GO:0006891	intra-Golgi vesicle-mediated transport	2.55186e-07
+GO:0009066	aspartate family amino acid metabolic process	1.72529e-06
+GO:0015672	monovalent inorganic cation transport	4.65879e-06
+GO:0060628	regulation of ER to Golgi vesicle-mediated transport	2.53247e-05
+GO:0000096	sulfur amino acid metabolic process	2.53247e-05
+GO:0000097	sulfur amino acid biosynthetic process	2.53247e-05
+GO:0006555	methionine metabolic process	2.53247e-05
+GO:0009086	methionine biosynthetic process	2.53247e-05
+GO:0044038	cell wall macromolecule biosynthetic process	3.07197e-05
+GO:0070589	cellular component macromolecule biosynthetic process	3.07197e-05
+GO:0015914	phospholipid transport	3.22999e-05
+GO:0006812	cation transport	8.1331e-05
+GO:0044036	cell wall macromolecule metabolic process	0.000127535
+GO:0032258	CVT pathway	0.000177754
+GO:0070550	rDNA condensation	0.000186794
+GO:0070897	DNA-dependent transcriptional preinitiation complex assembly	0.000299244
+GO:0045833	negative regulation of lipid metabolic process	0.000365654
+GO:0051055	negative regulation of lipid biosynthetic process	0.000365654
+GO:0051123	RNA polymerase II transcriptional preinitiation complex assembly	0.00158992
+GO:0048193	Golgi vesicle transport	0.00160998
+GO:0015748	organophosphate ester transport	0.00519481
+GO:0034517	ribophagy	0.00519481
+GO:1901605	alpha-amino acid metabolic process	0.00519481
+GO:0033365	protein localization to organelle	0.00519481
+GO:0008104	protein localization	0.00519481
+GO:0070727	cellular macromolecule localization	0.0103482
+GO:0030036	actin cytoskeleton organization	0.0109685
+GO:0034501	protein localization to kinetochore	0.0148531
+GO:1901566	organonitrogen compound biosynthetic process	0.0148531
+GO:0006673	inositolphosphoceramide metabolic process	0.0157067
+GO:0016192	vesicle-mediated transport	0.0211152
+GO:0051640	organelle localization	0.030303
+GO:0006888	ER to Golgi vesicle-mediated transport	0.0415385

@@ -1,0 +1,47 @@
+GO annotation	Process prediction	P-value
+GO:0006308	DNA catabolic process	1.11022e-16
+GO:0000706	meiotic DNA double-strand break processing	1.65423e-14
+GO:0000729	DNA double-strand break processing	3.41689e-10
+GO:0000738	DNA catabolic process, exonucleolytic	3.41689e-10
+GO:0042138	meiotic DNA double-strand break formation	3.50795e-07
+GO:0009272	fungal-type cell wall biogenesis	1.26871e-06
+GO:0000723	telomere maintenance	1.30538e-06
+GO:0032200	telomere organization	1.30538e-06
+GO:0060249	anatomical structure homeostasis	1.30538e-06
+GO:0042546	cell wall biogenesis	1.87628e-06
+GO:0006284	base-excision repair	1.4476e-05
+GO:0006303	double-strand break repair via nonhomologous end joining	1.51045e-05
+GO:0046686	response to cadmium ion	7.02807e-05
+GO:0000724	double-strand break repair via homologous recombination	8.12938e-05
+GO:0000726	non-recombinational repair	9.44378e-05
+GO:0000725	recombinational repair	0.000129889
+GO:0007131	reciprocal meiotic recombination	0.000318677
+GO:0035825	reciprocal DNA recombination	0.000318677
+GO:0032392	DNA geometric change	0.00054809
+GO:0032508	DNA duplex unwinding	0.00054809
+GO:0016567	protein ubiquitination	0.000781636
+GO:0010038	response to metal ion	0.000781636
+GO:0000722	telomere maintenance via recombination	0.000909889
+GO:0009268	response to pH	0.000909889
+GO:0006260	DNA replication	0.0033605
+GO:0006278	RNA-dependent DNA replication	0.00438996
+GO:0006310	DNA recombination	0.00532731
+GO:0071897	DNA biosynthetic process	0.00613659
+GO:0006268	DNA unwinding involved in DNA replication	0.00613659
+GO:0006281	DNA repair	0.00820847
+GO:0042176	regulation of protein catabolic process	0.00858757
+GO:0009072	aromatic amino acid family metabolic process	0.00858757
+GO:0009073	aromatic amino acid family biosynthetic process	0.00858757
+GO:0006271	DNA strand elongation involved in DNA replication	0.0088173
+GO:0022616	DNA strand elongation	0.0088173
+GO:0006275	regulation of DNA replication	0.00950946
+GO:0006301	postreplication repair	0.00950946
+GO:0008156	negative regulation of DNA replication	0.0126893
+GO:0006974	response to DNA damage stimulus	0.018249
+GO:0006302	double-strand break repair	0.0191879
+GO:0000727	double-strand break repair via break-induced replication	0.0201112
+GO:0006298	mismatch repair	0.0241994
+GO:0071214	cellular response to abiotic stimulus	0.0241994
+GO:0006273	lagging strand elongation	0.0433749
+GO:0048610	cellular process involved in reproduction	0.0433749
+GO:0045732	positive regulation of protein catabolic process	0.0454832

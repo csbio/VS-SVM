@@ -1,0 +1,85 @@
+GO annotation	Process prediction	P-value
+GO:0031990	mRNA export from nucleus in response to heat stress	0
+GO:0007094	mitotic spindle assembly checkpoint	0
+GO:0045839	negative regulation of mitosis	0
+GO:0045841	negative regulation of mitotic metaphase/anaphase transition	0
+GO:0051784	negative regulation of nuclear division	0
+GO:0071173	spindle assembly checkpoint	0
+GO:1902100	negative regulation of metaphase/anaphase transition of cell cycle	0
+GO:0010970	microtubule-based transport	0
+GO:0030473	nuclear migration along microtubule	0
+GO:0030705	cytoskeleton-dependent intracellular transport	0
+GO:0072384	organelle transport along microtubule	0
+GO:0007020	microtubule nucleation	0
+GO:0051656	establishment of organelle localization	0
+GO:0007097	nuclear migration	0
+GO:0040023	establishment of nucleus localization	0
+GO:0007017	microtubule-based process	0
+GO:0000070	mitotic sister chromatid segregation	0
+GO:0040001	establishment of mitotic spindle localization	0
+GO:0051293	establishment of spindle localization	0
+GO:0000226	microtubule cytoskeleton organization	0
+GO:0030071	regulation of mitotic metaphase/anaphase transition	0
+GO:1902099	regulation of metaphase/anaphase transition of cell cycle	0
+GO:0006928	cellular component movement	0
+GO:0007064	mitotic sister chromatid cohesion	0
+GO:0007067	mitosis	0
+GO:0007062	sister chromatid cohesion	0
+GO:0000280	nuclear division	0
+GO:0007088	regulation of mitosis	0
+GO:0051783	regulation of nuclear division	0
+GO:0031577	spindle checkpoint	0
+GO:0034397	telomere localization	0
+GO:0034398	telomere tethering at nuclear periphery	0
+GO:0050000	chromosome localization	0
+GO:0006607	NLS-bearing substrate import into nucleus	0
+GO:0008380	RNA splicing	0
+GO:0000375	RNA splicing, via transesterification reactions	0
+GO:0006997	nucleus organization	0
+GO:0048285	organelle fission	0
+GO:0000377	RNA splicing, via transesterification reactions with bulged adenosine as nucleophile	0
+GO:0000398	mRNA splicing, via spliceosome	0
+GO:0007018	microtubule-based movement	0
+GO:0000075	cell cycle checkpoint	0
+GO:1901988	negative regulation of cell cycle phase transition	0
+GO:0071174	mitotic spindle checkpoint	0
+GO:0000819	sister chromatid segregation	8.88178e-16
+GO:0000132	establishment of mitotic spindle orientation	4.88498e-15
+GO:0051294	establishment of spindle orientation	4.88498e-15
+GO:1901987	regulation of cell cycle phase transition	3.08642e-14
+GO:0006606	protein import into nucleus	3.38618e-14
+GO:0007049	cell cycle	3.38618e-14
+GO:0071103	DNA conformation change	1.39888e-13
+GO:0000972	transcription-dependent tethering of RNA polymerase II gene DNA at nuclear periphery	2.30038e-13
+GO:0010564	regulation of cell cycle process	1.59794e-12
+GO:0008608	attachment of spindle microtubules to kinetochore	1.2472e-11
+GO:0034453	microtubule anchoring	1.2472e-11
+GO:0051170	nuclear import	1.93908e-11
+GO:0051315	attachment of spindle microtubules to kinetochore involved in mitotic sister chromatid segregation	6.81958e-11
+GO:0036228	protein targeting to nuclear inner membrane	1.3026e-10
+GO:0007059	chromosome segregation	1.55178e-09
+GO:0010948	negative regulation of cell cycle process	4.25155e-09
+GO:0000973	posttranscriptional tethering of RNA polymerase II gene DNA at nuclear periphery	3.17702e-08
+GO:0007346	regulation of mitotic cell cycle	4.14462e-08
+GO:0006406	mRNA export from nucleus	5.4614e-08
+GO:0000741	karyogamy	1.03502e-07
+GO:0050657	nucleic acid transport	1.59866e-07
+GO:0031134	sister chromatid biorientation	8.18698e-07
+GO:0050658	RNA transport	1.15728e-06
+GO:0051236	establishment of RNA localization	1.15728e-06
+GO:0006405	RNA export from nucleus	1.84498e-05
+GO:0015931	nucleobase-containing compound transport	0.000107249
+GO:1901990	regulation of mitotic cell cycle phase transition	0.000334337
+GO:0007093	mitotic cell cycle checkpoint	0.000334337
+GO:1901991	negative regulation of mitotic cell cycle phase transition	0.000334337
+GO:0051028	mRNA transport	0.000337792
+GO:0031081	nuclear pore distribution	0.0021009
+GO:0051664	nuclear pore localization	0.0021009
+GO:0006913	nucleocytoplasmic transport	0.0144099
+GO:0051169	nuclear transport	0.0144099
+GO:0006409	tRNA export from nucleus	0.0209156
+GO:0051168	nuclear export	0.0265358
+GO:0043570	maintenance of DNA repeat elements	0.0286667
+GO:0065003	macromolecular complex assembly	0.0286667
+GO:0043623	cellular protein complex assembly	0.0416641
+GO:0071705	nitrogen compound transport	0.0456988

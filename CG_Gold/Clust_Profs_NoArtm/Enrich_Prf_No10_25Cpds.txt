@@ -1,0 +1,93 @@
+GO annotation	Process prediction	P-value
+GO:0006259	DNA metabolic process	1.11022e-16
+GO:0006974	response to DNA damage stimulus	5.55112e-16
+GO:0006281	DNA repair	1.11022e-15
+GO:0016925	protein sumoylation	4.32987e-15
+GO:0033554	cellular response to stress	1.29896e-14
+GO:0043137	DNA replication, removal of RNA primer	1.75415e-14
+GO:0006310	DNA recombination	6.86118e-14
+GO:0042592	homeostatic process	7.43313e-11
+GO:0006260	DNA replication	7.7774e-11
+GO:0006278	RNA-dependent DNA replication	2.44074e-10
+GO:0006302	double-strand break repair	1.21408e-09
+GO:0000731	DNA synthesis involved in DNA repair	2.80518e-09
+GO:0006272	leading strand elongation	1.09977e-08
+GO:0071103	DNA conformation change	2.07817e-08
+GO:0031570	DNA integrity checkpoint	3.23371e-08
+GO:0006273	lagging strand elongation	3.23371e-08
+GO:0048610	cellular process involved in reproduction	3.23371e-08
+GO:0006271	DNA strand elongation involved in DNA replication	5.21692e-08
+GO:0022616	DNA strand elongation	5.21692e-08
+GO:0051726	regulation of cell cycle	5.21692e-08
+GO:0006270	DNA replication initiation	7.9234e-08
+GO:0006301	postreplication repair	7.9234e-08
+GO:0000077	DNA damage checkpoint	9.8658e-08
+GO:0045005	maintenance of fidelity involved in DNA-dependent DNA replication	3.3829e-07
+GO:0000723	telomere maintenance	3.77756e-07
+GO:0032200	telomere organization	3.77756e-07
+GO:0060249	anatomical structure homeostasis	3.77756e-07
+GO:0032392	DNA geometric change	6.09521e-07
+GO:0032508	DNA duplex unwinding	6.09521e-07
+GO:0071897	DNA biosynthetic process	1.94808e-06
+GO:0006268	DNA unwinding involved in DNA replication	1.94808e-06
+GO:0007126	meiosis	4.05521e-06
+GO:0000727	double-strand break repair via break-induced replication	5.96116e-06
+GO:0000724	double-strand break repair via homologous recombination	5.96116e-06
+GO:0006284	base-excision repair	8.53812e-06
+GO:0000725	recombinational repair	8.53812e-06
+GO:0006261	DNA-dependent DNA replication	9.45572e-06
+GO:0007131	reciprocal meiotic recombination	1.15128e-05
+GO:0035825	reciprocal DNA recombination	1.15128e-05
+GO:0000076	DNA replication checkpoint	2.45764e-05
+GO:0090305	nucleic acid phosphodiester bond hydrolysis	2.45764e-05
+GO:0006342	chromatin silencing	4.23408e-05
+GO:0045814	negative regulation of gene expression, epigenetic	4.23408e-05
+GO:0016458	gene silencing	7.4655e-05
+GO:0032446	protein modification by small protein conjugation	0.00023601
+GO:0070647	protein modification by small protein conjugation or removal	0.00023601
+GO:0031573	intra-S DNA damage checkpoint	0.00023601
+GO:0030466	chromatin silencing at silent mating-type cassette	0.00023601
+GO:0006401	RNA catabolic process	0.00023601
+GO:0000726	non-recombinational repair	0.000534865
+GO:0010564	regulation of cell cycle process	0.000683514
+GO:0006303	double-strand break repair via nonhomologous end joining	0.000714438
+GO:1901987	regulation of cell cycle phase transition	0.000787842
+GO:0019985	translesion synthesis	0.000880475
+GO:0042276	error-prone translesion synthesis	0.000880475
+GO:0010948	negative regulation of cell cycle process	0.0010269
+GO:0051276	chromosome organization	0.00190005
+GO:0006275	regulation of DNA replication	0.00255981
+GO:0006289	nucleotide-excision repair	0.00259227
+GO:0044265	cellular macromolecule catabolic process	0.00344939
+GO:0000075	cell cycle checkpoint	0.00479577
+GO:1901988	negative regulation of cell cycle phase transition	0.00479577
+GO:0065008	regulation of biological quality	0.00508821
+GO:0071824	protein-DNA complex subunit organization	0.00930635
+GO:0008156	negative regulation of DNA replication	0.0122532
+GO:0007346	regulation of mitotic cell cycle	0.0147608
+GO:0048523	negative regulation of cellular process	0.0163866
+GO:0051052	regulation of DNA metabolic process	0.0168372
+GO:0031123	RNA 3'-end processing	0.022035
+GO:0010605	negative regulation of macromolecule metabolic process	0.0227338
+GO:0065004	protein-DNA complex assembly	0.0258003
+GO:0006479	protein methylation	0.0278083
+GO:0008213	protein alkylation	0.0278083
+GO:0043086	negative regulation of catalytic activity	0.0302663
+GO:0001932	regulation of protein phosphorylation	0.0302663
+GO:0044092	negative regulation of molecular function	0.0302663
+GO:0042325	regulation of phosphorylation	0.0302663
+GO:0019439	aromatic compound catabolic process	0.0302663
+GO:0034655	nucleobase-containing compound catabolic process	0.0302663
+GO:0044270	cellular nitrogen compound catabolic process	0.0302663
+GO:0007568	aging	0.0302663
+GO:0007569	cell aging	0.0302663
+GO:0007076	mitotic chromosome condensation	0.0312865
+GO:0009057	macromolecule catabolic process	0.0341205
+GO:0007062	sister chromatid cohesion	0.0345458
+GO:0009890	negative regulation of biosynthetic process	0.0402037
+GO:0031327	negative regulation of cellular biosynthetic process	0.0402037
+GO:0010558	negative regulation of macromolecule biosynthetic process	0.0402037
+GO:2000113	negative regulation of cellular macromolecule biosynthetic process	0.0402037
+GO:0045934	negative regulation of nucleobase-containing compound metabolic process	0.0486704
+GO:0051172	negative regulation of nitrogen compound metabolic process	0.0486704
+GO:0040029	regulation of gene expression, epigenetic	0.0486704
