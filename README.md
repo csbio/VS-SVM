@@ -15,7 +15,7 @@ VS-SVM is a MATLAB script to be used for the purpose of predicting functional (c
 
 > Execution details
 
-**/VS-SVM/CG_Gold/ASP-8**
+*/VS-SVM/CG_Gold/ASP-8*<br/>
 This directory includes six matfiles and a subdirectory as follows:
 
 -	`Artemisinins.mat:` forms a group of 20 compounds in the RIKEN high-confidence set with very similar chemical-genetic interaction profiles. We removed these compounds from our learning data collection to prevent any bias in our machine learning models.
@@ -25,10 +25,10 @@ This directory includes six matfiles and a subdirectory as follows:
 -	`Cpds_Frg_Ord.mat:` contains the same data as the Cpds_Prf_New matfile.
 -	`Clust_Frags_NoArtm:` contains structural clustering of our compounds in the RIKEN high-confidence set based on the ASP fingerprints using the K-medoids clustering algorithm (K=10).
 
-**/VS-SVM/CG_Gold/Clust_Profs_NoArtm**
+*/VS-SVM/CG_Gold/Clust_Profs_NoArtm*<br/>
 This directory contains functional clustering of our compounds in the RIKEN high-confidence set based on our chemical-genetic interaction data using the K-means clustering algorithm (K=10).
 
-**/VS-SVM/Learning_Model**
+*/VS-SVM/Learning_Model*<br/>
 This directory includes three matfiles and a log.txt file to store the experimental results of 200 bootstraps for our RIKEN high-confidence set. Please note that our machine learning model creates a single subdirectory for every bootstrap; however, we have not included those 200 bootstrap subdirectories for the sake of storage efficiency.
 
 -	`Cpds_Trn_Tst.mat:` indicates whether a compound is in the training set or the test set in a bootstrap. This matfile also includes the number of supervised principal components that explain 95% of chemical-genetic interaction data (for the training set only) in a bootstrap to be used as learning labels.
