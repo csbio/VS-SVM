@@ -4,7 +4,7 @@
 
 VS-SVM is a MATLAB script to be used for the purpose of predicting functional (chemical-genetic) similarities of compounds from their chemical structures using support vector machine learning models. Although we have used this script to predict the functional similarities of our RIKEN high-confidence set (Piotrowski et al., 2017) here, the script is scalable to any compound collection for which chemical-genetic interaction profiles exist. 
 
-### Features
+> Features
 
 - The model uses pairwise structural similarities of compounds for prediction of their pairwise functional similarities.
 - The model extracts supervised principal components from chemical-genetic interaction profiles (from the training data only) to be used as learning labels.
@@ -13,9 +13,9 @@ VS-SVM is a MATLAB script to be used for the purpose of predicting functional (c
 -	Although the SVM model parameters in the script are optimized for our RIKEN high-confidence set, the optimal model parameters should be tuned to the compound collection if others are used.
 -	The script is developed in the MATLAB environment with no other dependencies.
 
-### Execution details
+> Execution details
 
-> /VS-SVM/CG_Gold/ASP-8: This directory includes six matfiles and a subdirectory as follows:
+**/VS-SVM/CG_Gold/ASP-8:** This directory includes six matfiles and a subdirectory as follows:
 
 -	`Artemisinins.mat:` forms a group of 20 compounds in the RIKEN high-confidence set with very similar chemical-genetic interaction profiles. We removed these compounds from our learning data collection to prevent any bias in our machine learning models.
 -	`Profs_New.mat:` contains the chemical-genetic interaction data for our compounds in the RIKEN high-confidence set (826 compounds). 
@@ -33,11 +33,11 @@ VS-SVM is a MATLAB script to be used for the purpose of predicting functional (c
 -	`Prd_Avg.mat:` contains the final prediction for every compound pair by taking the mean over all the bootstrap prediction values where the test prediction values are valid.
 -	`log.txt:` contains the step-by-step execution details of every bootstrap for our RIKEN high-confidence set.  
 
-### Prediction for a new compound
+> Prediction for a new compound
 
 The new compound should be added to the test set in all bootstraps. Thus, our machine learning model will compute the functional similarity of the new compound with all other compounds that are assigned to the test set in a bootstrap. The functional similarities of the new compound with other compounds in the collection are predicted as the mean of the functional similarities of the new compound over all bootstraps where the test prediction values are valid. Please note that the machine learning model for each bootstrap does not need to be recomputed in the presence of a new sample because the training set for each bootstrap does not change.
 
-### Citation
+> Citation
 
 Please cite the following article:
 
