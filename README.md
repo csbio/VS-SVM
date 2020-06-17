@@ -44,4 +44,4 @@ The new compound should be added to the test set in all bootstraps. Thus, our ma
 
 Please cite the following article:
 
-Hamid Safizadeh, Scott W. Simpkins, Justin Nelson, Sheena C. Li, Jeff S. Piotrowski, Mami Yoshimura, Yoko Yashiroda, Hiroyuki Hirano, Hiroyuki Osada, Minoru Yoshida, Charles Boone, Chad L. Myers, “Improving measures of chemical structural similarity using machine learning on chemical-genetic interactions”, preprint is available on BioRxiv.
+Hamid Safizadeh, Scott W. Simpkins, Justin Nelson, Sheena C. Li, Jeff S. Piotrowski, Mami Yoshimura, Yoko Yashiroda, Hiroyuki Hirano, Hiroyuki Osada, Minoru Yoshida, Charles Boone, Chad L. Myers, “Improving measures of chemical structural similarity using machine learning on chemical-genetic interactions”, [preprint is available on BioRxiv](https://www.biorxiv.org/content/10.1101/112698v1).
