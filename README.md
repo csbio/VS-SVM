@@ -17,7 +17,7 @@ VS-SVM is a MATLAB script to be used for the purpose of predicting functional (c
 
 **/VS-SVM/CG_Gold/ASP-8:** This directory includes six matfiles and a subdirectory as follows:
 
--	Artemisinins.mat: forms a group of 20 compounds in the RIKEN high-confidence set with very similar chemical-genetic interaction profiles. We removed these compounds from our learning data collection to prevent any bias in our machine learning models.
+-	`Artemisinins.mat:` forms a group of 20 compounds in the RIKEN high-confidence set with very similar chemical-genetic interaction profiles. We removed these compounds from our learning data collection to prevent any bias in our machine learning models.
 -	Profs_New.mat: contains the chemical-genetic interaction data for our compounds in the RIKEN high-confidence set (826 compounds). 
 -	Frags_Ord.mat: contains the ASP fingerprints (depth 8) for our compounds in the RIKEN high-confidence set ordered as they are listed in the Profs_New matfile. Frags_Ord_Spr matfile is the sparse form of the Frags_Ord matfile, where the many zeros of the ASP fingerprints are removed for the purposes of storage efficiency.
 -	Cpds_Prf_New.mat: contains the chemical name of our compounds in the same order that their functional and structural data are stored in the Prof_New and Frags_Ord matfiles respectively.
